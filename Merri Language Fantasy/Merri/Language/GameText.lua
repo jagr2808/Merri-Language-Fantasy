@@ -801,6 +801,7 @@ GameText.TargetText.German      [ "miner-move-north" ]  = "Du gehst Richtung Nor
 GameText.TargetText.French      [ "miner-move-north" ]  = "Tu marches vers le nord."
 GameText.TargetText.Polish      [ "miner-move-north" ]  = "Idziesz na północ."
 GameText.TargetText.Japanese    [ "miner-move-north" ]  = "きた　へ　あるく。"
+GameText.TargetText.Norwegian   [ "miner-move-north" ]  = "Du går nordover."
 
 GameText.TargetText.English     [ "miner-move-south" ]  = "You walk south."
 GameText.TargetText.Esperanto   [ "miner-move-south" ]  = "Vi marŝas suden."
@@ -811,6 +812,7 @@ GameText.TargetText.German      [ "miner-move-south" ]  = "Du gehst Richtung Sü
 GameText.TargetText.French      [ "miner-move-south" ]  = "Tu marches vers le sud."
 GameText.TargetText.Polish      [ "miner-move-south" ]  = "Idziesz na południe."
 GameText.TargetText.Japanese    [ "miner-move-south" ]  = "みなみ　へ　あるく。"
+GameText.TargetText.Norwegian   [ "miner-move-south" ]  = "Du går sørover."
 
 GameText.TargetText.English     [ "miner-move-east" ]   = "You walk east."
 GameText.TargetText.Esperanto   [ "miner-move-east" ]   = "Vi marŝas orienten."
@@ -821,6 +823,7 @@ GameText.TargetText.German      [ "miner-move-east" ]   = "Du gehst Richtung Ost
 GameText.TargetText.French      [ "miner-move-east" ]   = "Tu marches vers l'est."
 GameText.TargetText.Polish      [ "miner-move-east" ]   = "Idziesz na wschód."
 GameText.TargetText.Japanese    [ "miner-move-east" ]   = "ひがし　へ　あるく。"
+GameText.TargetText.Norwegian   [ "miner-move-east" ]   = "Du går østover."
 
 GameText.TargetText.English     [ "miner-move-west" ]   = "You walk west."
 GameText.TargetText.Esperanto   [ "miner-move-west" ]   = "Vi marŝas okcidenten."
@@ -831,6 +834,7 @@ GameText.TargetText.German      [ "miner-move-west" ]   = "Du gehst Richtung Wes
 GameText.TargetText.French      [ "miner-move-west" ]   = "Tu marches vers l'ouest."
 GameText.TargetText.Polish      [ "miner-move-west" ]   = "Idziesz na zachód."
 GameText.TargetText.Japanese    [ "miner-move-west" ]   = "にし　へ　あるく。"
+GameText.TargetText.Norwegian   [ "miner-move-west" ]   = "Du går vestover."
 
 GameText.TargetText.English     [ "miner-mine" ]        = "You swing your pick."
 GameText.TargetText.Esperanto   [ "miner-mine" ]        = "Vi svingas vian pioĉon."
@@ -841,6 +845,7 @@ GameText.TargetText.German      [ "miner-mine" ]        = "Du schwingst deine Sp
 GameText.TargetText.French      [ "miner-mine" ]        = "Tu donnes un coup de pioche."
 GameText.TargetText.Polish      [ "miner-mine" ]        = "Machasz swoim kilofem."
 GameText.TargetText.Japanese    [ "miner-mine" ]        = "つるはし　を　ふるう。"
+GameText.TargetText.Norwegian   [ "miner-mine" ]        = "Du hakker med hakken din."
 
 GameText.TargetText.English     [ "miner-eat-sandwich" ]    = "You eat the cave sandwich."
 GameText.TargetText.Esperanto   [ "miner-eat-sandwich" ]    = "Vi manĝas la kavernan sandviĉon."
@@ -851,6 +856,7 @@ GameText.TargetText.German      [ "miner-eat-sandwich" ]    = "Du isst das Höhl
 GameText.TargetText.French      [ "miner-eat-sandwich" ]    = "Tu manges le sandwich des cavernes."
 GameText.TargetText.Polish      [ "miner-eat-sandwich" ]    = "Zjadasz jaskiniową kanapkę."
 GameText.TargetText.Japanese    [ "miner-eat-sandwich" ]    = "ほらあな　サンドイッチ　を　たべる。"
+GameText.TargetText.Norwegian   [ "miner-eat-sandwich" ]    = "Du spiser et hulesmørbrød."
 
 GameText.TargetText.English     [ "use-earthquake" ]    = "The earth shakes violently."
 GameText.TargetText.Esperanto   [ "use-earthquake" ]    = "La tero tremas forte."
@@ -861,6 +867,7 @@ GameText.TargetText.German      [ "use-earthquake" ]    = "The earth shakes viol
 GameText.TargetText.French      [ "use-earthquake" ]    = "The earth shakes violently."
 GameText.TargetText.Polish      [ "use-earthquake" ]    = "Ziemia trzęsie się gwałtownie."
 GameText.TargetText.Japanese    [ "use-earthquake" ]    = "じめん　が　はげしく　ゆれる。"
+GameText.TargetText.Norwegian   [ "use-earthquake" ]    = "Bakken rister voldsomt."
 
 GameText.TargetText.English     [ "use-blizzard" ]    = "Everything freezes over."
 GameText.TargetText.Esperanto   [ "use-blizzard" ]    = "Ĉio frostas."
@@ -871,6 +878,7 @@ GameText.TargetText.German      [ "use-blizzard" ]    = "Everything freezes over
 GameText.TargetText.French      [ "use-blizzard" ]    = "Everything freezes over."
 GameText.TargetText.Polish      [ "use-blizzard" ]    = "Wszystko zamarza."
 GameText.TargetText.Japanese    [ "use-blizzard" ]    = "すべての　もの　が　こおる。"
+GameText.TargetText.Norwegian   [ "use-blizzard" ]    = "Alt fryser til is."
 
 GameText.TargetText.English     [ "enemies-thaw" ]    = "Everything has thawed out."
 GameText.TargetText.Esperanto   [ "enemies-thaw" ]    = "Ĉio degelas."
@@ -881,6 +889,7 @@ GameText.TargetText.German      [ "enemies-thaw" ]    = "Everything has thawed o
 GameText.TargetText.French      [ "enemies-thaw" ]    = "Everything has thawed out."
 GameText.TargetText.Polish      [ "enemies-thaw" ]    = "Wszystko rozmroziło się."
 GameText.TargetText.Japanese    [ "enemies-thaw" ]    = "すべての　もの　が　とけてしまった。"
+GameText.TargetText.Norwegian   [ "enemies-thaw" ]    = "Alt har tint."
 
 GameText.TargetText.English     [ "use-potion" ]    = "You feel strong again."
 GameText.TargetText.Esperanto   [ "use-potion" ]    = "Vi sentas vin forta denove."
@@ -891,6 +900,7 @@ GameText.TargetText.German      [ "use-potion" ]    = "You feel strong again."
 GameText.TargetText.French      [ "use-potion" ]    = "You feel strong again."
 GameText.TargetText.Polish      [ "use-potion" ]    = "Czujesz że wracają Tobie siły."
 GameText.TargetText.Japanese    [ "use-potion" ]    = "ちから　が　もどった。"
+GameText.TargetText.Norwegian   [ "use-potion" ]    = "Du føler deg sterk igjen."
 
 -- collects
 GameText.TargetText.English     [ "miner-collect-copper" ]  = "You pick up copper."
@@ -902,6 +912,7 @@ GameText.TargetText.German      [ "miner-collect-copper" ]  = "Du sammelst Kupfe
 GameText.TargetText.French      [ "miner-collect-copper" ]  = "Tu as ramassé du cuivre."
 GameText.TargetText.Polish      [ "miner-collect-copper" ]  = "Podnosisz miedź."
 GameText.TargetText.Japanese    [ "miner-collect-cooper" ]  = "コッパー　を　ゲット。"
+GameText.TargetText.Norwegian   [ "miner-collect-copper" ]  = "Du plukket opp kobber." 
 
 GameText.TargetText.English     [ "miner-collect-silver" ]  = "You pick up silver."
 GameText.TargetText.Esperanto   [ "miner-collect-silver" ]  = "Vi kolektas arĝenton."
@@ -912,6 +923,7 @@ GameText.TargetText.German      [ "miner-collect-silver" ]  = "Du sammelst Silbe
 GameText.TargetText.French      [ "miner-collect-silver" ]  = "Tu as ramassé de l'argent."
 GameText.TargetText.Polish      [ "miner-collect-silver" ]  = "Podnosisz srebro."
 GameText.TargetText.Japanese    [ "miner-collect-silver" ]  = "シルバー　を　ゲット。"
+GameText.TargetText.Norwegian   [ "miner-collect-silver" ]  = "Du plukket opp sølv."
 
 GameText.TargetText.English     [ "miner-collect-gold" ]    = "You pick up gold."
 GameText.TargetText.Esperanto   [ "miner-collect-gold" ]    = "Vi kolektas oron."
@@ -922,6 +934,7 @@ GameText.TargetText.German      [ "miner-collect-gold" ]    = "Du sammelst Gold 
 GameText.TargetText.French      [ "miner-collect-gold" ]    = "Tu as ramassé de l'or."
 GameText.TargetText.Polish      [ "miner-collect-gold" ]    = "Podnosisz złoto."
 GameText.TargetText.Japanese    [ "miner-collect-gold" ]    = "ゴールド　を　ゲット。"
+GameText.TargetText.Norwegian   [ "miner-collect-gold" ]    = "Du plukket opp gull."
 
 GameText.TargetText.English     [ "miner-collect-amethyst" ]    = "You pick up amethyst."
 GameText.TargetText.Esperanto   [ "miner-collect-amethyst" ]    = "Vi kolektas ametiston."
@@ -932,6 +945,7 @@ GameText.TargetText.German      [ "miner-collect-amethyst" ]    = "Du sammelst A
 GameText.TargetText.French      [ "miner-collect-amethyst" ]    = "Tu as ramassé une améthyste."
 GameText.TargetText.Polish      [ "miner-collect-amethyst" ]    = "Podnosisz ametyst."
 GameText.TargetText.Japanese    [ "miner-collect-amethyst" ]    = "ｱﾒｼﾞｽﾄ を　ゲット。"
+GameText.TargetText.Norwegian   [ "miner-collect-amethyst" ]    = "Du plukket opp ametyst."
 
 GameText.TargetText.English     [ "miner-collect-sapphire" ]    = "You pick up sapphire."
 GameText.TargetText.Esperanto   [ "miner-collect-sapphire" ]    = "Vi kolektas safiron."
@@ -942,6 +956,7 @@ GameText.TargetText.German      [ "miner-collect-sapphire" ]    = "Du sammelst S
 GameText.TargetText.French      [ "miner-collect-sapphire" ]    = "Tu as ramassé un saphir."
 GameText.TargetText.Polish      [ "miner-collect-sapphire" ]    = "Podnosisz szafir."
 GameText.TargetText.Japanese    [ "miner-collect-sapphire" ]    = "サファイア　を　ゲット。"
+GameText.TargetText.Norwegian   [ "miner-collect-sapphire" ]    = "Du plukket opp safir."
 
 GameText.TargetText.English     [ "miner-collect-diamond" ]     = "You pick up diamond."
 GameText.TargetText.Esperanto   [ "miner-collect-diamond" ]     = "Vi kolektas diamanton."
@@ -952,6 +967,7 @@ GameText.TargetText.German      [ "miner-collect-diamond" ]     = "Du sammelst D
 GameText.TargetText.French      [ "miner-collect-diamond" ]     = "Tu as ramassé un diamant."
 GameText.TargetText.Polish      [ "miner-collect-diamond" ]     = "Podnosisz diament."
 GameText.TargetText.Japanese    [ "miner-collect-diamond" ]     = "ダイアモンド　を　ゲット。"
+GameText.TargetText.Norwegian   [ "miner-collect-diamond" ]     = "Du plukket opp diamant."
 
 GameText.TargetText.English     [ "miner-collect-emerald" ]     = "You pick up emerald."
 GameText.TargetText.Esperanto   [ "miner-collect-emerald" ]     = "Vi kolektas smeraldon."
@@ -962,6 +978,7 @@ GameText.TargetText.German      [ "miner-collect-emerald" ]     = "Du sammelst E
 GameText.TargetText.French      [ "miner-collect-emerald" ]     = "Tu as ramassé une émeraude."
 GameText.TargetText.Polish      [ "miner-collect-emerald" ]     = "Podnosisz szmaragd."
 GameText.TargetText.Japanese    [ "miner-collect-emerald" ]     = "エメラルド　を　ゲット。"
+GameText.TargetText.Norwegian   [ "miner-collect-emerald" ]     = "Du plukket opp smaragd."
 
 GameText.TargetText.English     [ "miner-collect-ruby" ]        = "You pick up ruby."
 GameText.TargetText.Esperanto   [ "miner-collect-ruby" ]        = "Vi kolektas rubenon."
@@ -972,6 +989,7 @@ GameText.TargetText.German      [ "miner-collect-ruby" ]        = "Du sammmelst 
 GameText.TargetText.French      [ "miner-collect-ruby" ]        = "Tu as ramassé un rubis."
 GameText.TargetText.Polish      [ "miner-collect-ruby" ]        = "Tu as ramassé un rubin."
 GameText.TargetText.Japanese    [ "miner-collect-ruby" ]        = "ルビー　を　ゲット。"
+GameText.TargetText.Norwegian   [ "miner-collect-ruby" ]        = "Du plukket opp rubin."
 
 -- attacking
 GameText.TargetText.English     [ "miner-attack-snail" ]    = "You attack the snail."
@@ -983,6 +1001,7 @@ GameText.TargetText.German      [ "miner-attack-snail" ]    = "Du greifst die Sc
 GameText.TargetText.French      [ "miner-attack-snail" ]    = "Tu attaques l'escargot."
 GameText.TargetText.Polish      [ "miner-attack-snail" ]    = "Atakujesz ślimaka."
 GameText.TargetText.Japanese    [ "miner-attack-snail" ]    = "かたつむり　を　こうげき。"
+GameText.TargetText.Norwegian   [ "miner-attack-snail" ]    = "Du angriper sneglen."
 
 GameText.TargetText.English     [ "miner-attack-mole" ]     = "You attack the mole."
 GameText.TargetText.Esperanto   [ "miner-attack-mole" ]     = "Vi atakas la talpon."
@@ -993,6 +1012,7 @@ GameText.TargetText.German      [ "miner-attack-mole" ]     = "Du greifst den Ma
 GameText.TargetText.French      [ "miner-attack-mole" ]     = "Tu attaques la taupe."
 GameText.TargetText.Polish      [ "miner-attack-mole" ]     = "Atakujesz kreta."
 GameText.TargetText.Japanese    [ "miner-attack-mole" ]     = "もぐら　を　こうげき。"
+GameText.TargetText.Norwegian   [ "miner-attack-mole" ]    = "Du angriper mullvarpen."
 
 GameText.TargetText.English     [ "miner-attack-mushroom" ]     = "You attack the mushroom."
 GameText.TargetText.Esperanto   [ "miner-attack-mushroom" ]     = "Vi atakas la fungon."
@@ -1003,6 +1023,7 @@ GameText.TargetText.German      [ "miner-attack-mushroom" ]     = "Du greifst de
 GameText.TargetText.French      [ "miner-attack-mushroom" ]     = "Tu attaques le champignon."
 GameText.TargetText.Polish      [ "miner-attack-mushroom" ]     = "Atakujesz grzyba."
 GameText.TargetText.Japanese    [ "miner-attack-mushroom" ]     = "きのこ　を　こうげき。"
+GameText.TargetText.Norwegian   [ "miner-attack-mushroom" ]     = "Du angriper soppen."
 
 GameText.TargetText.English     [ "miner-attack-bat" ]      = "You attack the bat."
 GameText.TargetText.Esperanto   [ "miner-attack-bat" ]      = "Vi atakas la vesperton."
@@ -1013,6 +1034,7 @@ GameText.TargetText.German      [ "miner-attack-bat" ]      = "Du greifst die Fl
 GameText.TargetText.French      [ "miner-attack-bat" ]      = "Tu attaques la chauve-souris."
 GameText.TargetText.Polish      [ "miner-attack-bat" ]      = "Atakujesz nietoperza."
 GameText.TargetText.Japanese    [ "miner-attack-bat" ]      = "こうもり　を　こうげき。"
+GameText.TargetText.Norwegian   [ "miner-attack-bat" ]      = "Du angriper flaggermusen."
 
 GameText.TargetText.English     [ "miner-attack-rabbit" ]   = "You attack the rabbit."
 GameText.TargetText.Esperanto   [ "miner-attack-rabbit" ]   = "Vi atakas la kuniklon."
@@ -1023,6 +1045,7 @@ GameText.TargetText.German      [ "miner-attack-rabbit" ]   = "Du greifst den Ha
 GameText.TargetText.French      [ "miner-attack-rabbit" ]   = "Tu attaques le lapin."
 GameText.TargetText.Polish      [ "miner-attack-rabbit" ]   = "Atakujesz królika."
 GameText.TargetText.Japanese    [ "miner-attack-rabbit" ]   = "うさぎ　を　こうげき。"
+GameText.TargetText.Norwegian   [ "miner-attack-rabbit" ]    = "Du angriper kaninen."
 
 GameText.TargetText.English     [ "miner-attack-snake" ]    = "You attack the snake."
 GameText.TargetText.Esperanto   [ "miner-attack-snake" ]    = "Vi atakas la serpenton."
@@ -1033,6 +1056,7 @@ GameText.TargetText.German      [ "miner-attack-snake" ]    = "Du greifst die Sc
 GameText.TargetText.French      [ "miner-attack-snake" ]    = "Tu attaques le serpent."
 GameText.TargetText.Polish      [ "miner-attack-snake" ]    = "Atakujesz węża."
 GameText.TargetText.Japanese    [ "miner-attack-snake" ]    = "へび　を　こうげき。"
+GameText.TargetText.Norwegian   [ "miner-attack-snake" ]    = "Du angriper slangen."
 
 GameText.TargetText.English     [ "miner-attack-moose" ]    = "You attack the moose."
 GameText.TargetText.Esperanto   [ "miner-attack-moose" ]    = "Vi atakas la alkon."
@@ -1043,6 +1067,7 @@ GameText.TargetText.German      [ "miner-attack-moose" ]    = "Du greifst den El
 GameText.TargetText.French      [ "miner-attack-moose" ]    = "Tu attaques l'élan."
 GameText.TargetText.Polish      [ "miner-attack-moose" ]    = "Atakujesz łosia."
 GameText.TargetText.Japanese    [ "miner-attack-moose" ]    = "へらじか　を　こうげき。"
+GameText.TargetText.Norwegian   [ "miner-attack-moose" ]    = "Du angriper elgen."
 
 GameText.TargetText.English     [ "miner-attack-skeleton" ]     = "You attack the skeleton."
 GameText.TargetText.Esperanto   [ "miner-attack-skeleton" ]     = "Vi atakas la skeleton."
@@ -1053,6 +1078,7 @@ GameText.TargetText.German      [ "miner-attack-skeleton" ]     = "Du greifst da
 GameText.TargetText.French      [ "miner-attack-skeleton" ]     = "Tu attaques le squelette."
 GameText.TargetText.Polish      [ "miner-attack-skeleton" ]     = "Atakujesz szkielet."
 GameText.TargetText.Japanese    [ "miner-attack-skeleton" ]     = "がいこつ　を　こうげき。"
+GameText.TargetText.Norwegian   [ "miner-attack-skeleton" ]     = "Du angriper skjelettet."
 
 -- ladder
 GameText.TargetText.English     [ "miner-go-down-ladder" ]      = "You descend the ladder."
@@ -1064,6 +1090,7 @@ GameText.TargetText.German      [ "miner-go-down-ladder" ]      = "Du gehst die 
 GameText.TargetText.French      [ "miner-go-down-ladder" ]      = "Tu descends l'échelle."
 GameText.TargetText.Polish      [ "miner-go-down-ladder" ]      = "Schodzisz po drabinie."
 GameText.TargetText.Japanese    [ "miner-go-down-ladder" ]      = "はしご　を　おりる。"
+GameText.TargetText.Norwegian   [ "miner-go-down-ladder" ]      = "Du går ned stigen."
 
 GameText.TargetText.English     [ "miner-rope" ]                = "You flee upward with the rope."
 GameText.TargetText.Esperanto   [ "miner-rope" ]                = "Vi eskapis supren per la ŝnuro."
@@ -1074,6 +1101,7 @@ GameText.TargetText.German      [ "miner-rope" ]                = "You flee upwa
 GameText.TargetText.French      [ "miner-rope" ]                = "You flee upward with the rope."
 GameText.TargetText.Polish      [ "miner-rope" ]                = "Uciekasz w górę po linie."
 GameText.TargetText.Japanese    [ "miner-rope" ]                = "ロープ　で　うえに　にげる。"
+GameText.TargetText.Norwegian   [ "miner-rope" ]                = "Du flykter opp med tauet."
 
 GameText.TargetText.English     [ "miner-dynamite" ]            = "You flee downward with the dynamite."
 GameText.TargetText.Esperanto   [ "miner-dynamite" ]            = "Vi eskapis malsupren per la dinamito."
@@ -1084,6 +1112,7 @@ GameText.TargetText.German      [ "miner-dynamite" ]            = "You flee down
 GameText.TargetText.French      [ "miner-dynamite" ]            = "You flee downward with the dynamite."
 GameText.TargetText.Polish      [ "miner-dynamite" ]            = "Uciekasz w dół używając dynamitu."
 GameText.TargetText.Japanese    [ "miner-dynamite" ]            = "ダイナマイト　で　したに　にげる。"
+GameText.TargetText.Norwegian   [ "miner-dynamite" ]            = "Du flykter ned med dynamitt."
 
 GameText.TargetText.English     [ "miner-died" ]            = "You have been killed."
 GameText.TargetText.Esperanto   [ "miner-died" ]            = "Vi estis mortigita."
@@ -1094,6 +1123,7 @@ GameText.TargetText.German      [ "miner-died" ]            = "You have been kil
 GameText.TargetText.French      [ "miner-died" ]            = "You have been killed."
 GameText.TargetText.Polish      [ "miner-died" ]            = "Nie żyjesz."
 GameText.TargetText.Japanese    [ "miner-died" ]            = "ころされて　しまった。"
+GameText.TargetText.Norwegian   [ "miner-died" ]            = "Du har blitt drept."
 
 -- Shop
 
@@ -1106,6 +1136,7 @@ GameText.TargetText.German      [ "Do you want to buy a tool?" ]    = "Möchtest
 GameText.TargetText.French      [ "Do you want to buy a tool?" ]    = "Est-ce que tu veux acheter un outil?"
 GameText.TargetText.Polish      [ "Do you want to buy a tool?" ]    = "Czy chcesz kupić narzędzie?"
 GameText.TargetText.Japanese    [ "Do you want to buy a tool?" ]    = "どうぐ　を　かいたい？"
+GameText.TargetText.Norwegian   [ "Do you want to buy a tool?" ]    = "Ønsker du å kjøpe et verktøy?"
 
 -- This is a button with the option to not buy anything, not dialog
 GameText.TargetText.English     [ "Don't buy anything" ]    = "Don't buy anything."
@@ -1117,6 +1148,7 @@ GameText.TargetText.German      [ "Don't buy anything" ]    = "Nichts kaufen."
 GameText.TargetText.French      [ "Don't buy anything" ]    = "Ne rien acheter."
 GameText.TargetText.Polish      [ "Don't buy anything" ]    = "Nie kupuj nic."
 GameText.TargetText.Japanese    [ "Don't buy anything" ]    = "なにも　かわない。"
+GameText.TargetText.Norwegian   [ "Don't buy anything" ]    = "Ikke kjøp noe."
 
 GameText.TargetText.English     [ "You don't have enough money" ]    = "You don't have enough money."
 GameText.TargetText.Esperanto   [ "You don't have enough money" ]    = "Vi ne havas sufiĉe da mono."
@@ -1127,6 +1159,7 @@ GameText.TargetText.German      [ "You don't have enough money" ]    = "You don'
 GameText.TargetText.French      [ "You don't have enough money" ]    = "You don't have enough money."
 GameText.TargetText.Polish      [ "You don't have enough money" ]    = "Masz za mało pieniędzy."
 GameText.TargetText.Japanese    [ "You don't have enough money" ]    = "おかね　が　たりないよ。"
+GameText.TargetText.Norwegian   [ "You don't have enough money" ]    = "Du har ikke nok penger."
 
 -- Items
 GameText.TargetText.English     [ "Potion" ]    = "Potion"
@@ -1138,6 +1171,7 @@ GameText.TargetText.German      [ "Potion" ]    = "Heiltrank"
 GameText.TargetText.French      [ "Potion" ]    = "Potion"
 GameText.TargetText.Polish      [ "Potion" ]    = "Mikstura"
 GameText.TargetText.Japanese    [ "Potion" ]    = "ポーション"
+GameText.TargetText.Norwegian   [ "Potion" ]    = "Brygg" 
 
 GameText.TargetText.English     [ "PotionDescription" ]     = "Restores all of your health."
 GameText.TargetText.Esperanto   [ "PotionDescription" ]     = "Redoni ĉiom da via sano."
@@ -1148,6 +1182,7 @@ GameText.TargetText.German      [ "PotionDescription" ]     = "Heilt dich vollst
 GameText.TargetText.French      [ "PotionDescription" ]     = "Restaure toute ta santé."
 GameText.TargetText.Polish      [ "PotionDescription" ]     = "Przywraca całe zdrowie."
 GameText.TargetText.Japanese    [ "PotionDescroption" ]     = "ヘルス　を　かいふく。"
+GameText.TargetText.Norwegian   [ "PotionDescription" ]     = "Gir deg fullt liv."
 
 GameText.TargetText.English     [ "Earthquake" ]    = "Earthquake"
 GameText.TargetText.Esperanto   [ "Earthquake" ]    = "Tertremo"
@@ -1158,6 +1193,7 @@ GameText.TargetText.German      [ "Earthquake" ]    = "Erdbeben"
 GameText.TargetText.French      [ "Earthquake" ]    = "Séisme"
 GameText.TargetText.Polish      [ "Earthquake" ]    = "Trzęsienie ziemii"
 GameText.TargetText.Japanese    [ "Earthquake" ]    = "じしん"
+GameText.TargetText.Norwegian   [ "Earthquake" ]    = "Jordskjelv" 
 
 GameText.TargetText.English     [ "EarthquakeDescription" ]     = "Breaks all rocks."
 GameText.TargetText.Esperanto   [ "EarthquakeDescription" ]     = "Rompi ĉiujn ŝtonojn."
@@ -1168,6 +1204,7 @@ GameText.TargetText.German      [ "EarthquakeDescription" ]     = "Lässt alle S
 GameText.TargetText.French      [ "EarthquakeDescription" ]     = "Casse tous les rochers."
 GameText.TargetText.Polish      [ "EarthquakeDescription" ]     = "Rozwala wszystkie kamienie."
 GameText.TargetText.Japanese    [ "EarthquakeDescription" ]     = "すべての　いわ　を　こわす。"
+GameText.TargetText.Norwegian   [ "EarthquakeDescription" ]     = "Knuser alle steiner."
 
 GameText.TargetText.English     [ "Dynamite" ]  = "Dynamite"
 GameText.TargetText.Esperanto   [ "Dynamite" ]  = "Dinamito"
@@ -1178,6 +1215,7 @@ GameText.TargetText.German      [ "Dynamite" ]  = "Dynamit"
 GameText.TargetText.French      [ "Dynamite" ]  = "Dynamite"
 GameText.TargetText.Polish      [ "Dynamite" ]  = "Dynamit"
 GameText.TargetText.Japanese    [ "Dynamite" ]  = "ダイナマイト"
+GameText.TargetText.Norwegian   [ "Dynamite" ]  = "Dynamitt"
 
 GameText.TargetText.English     [ "DynamiteDescription" ]   = "Descend down one floor."
 GameText.TargetText.Esperanto   [ "DynamiteDescription" ]   = "Subiri unu nivelon."
@@ -1188,6 +1226,7 @@ GameText.TargetText.German      [ "DynamiteDescription" ]   = "Gehe eine Ebene h
 GameText.TargetText.French      [ "DynamiteDescription" ]   = "Fait descendre d'un étage."
 GameText.TargetText.Polish      [ "DynamiteDescription" ]   = "Pozwala zejść jeden poziom niżej."
 GameText.TargetText.Japanese    [ "DynamiteDescription" ]   = "した　の　かい　に　おりる。"
+GameText.TargetText.Norwegian   [ "DynamiteDescription" ]   = "Synke et nivå ned."
 
 GameText.TargetText.English     [ "Rope" ]  = "Rope"
 GameText.TargetText.Esperanto   [ "Rope" ]  = "Ŝnuro"
@@ -1198,6 +1237,7 @@ GameText.TargetText.German      [ "Rope" ]  = "Seil"
 GameText.TargetText.French      [ "Rope" ]  = "Corde"
 GameText.TargetText.Polish      [ "Rope" ]  = "Lina"
 GameText.TargetText.Japanese    [ "Rope" ]  = "ロープ"
+GameText.TargetText.Norwegian   [ "Rope" ]  = "Tau"
 
 GameText.TargetText.English     [ "RopeDescription" ]   = "Climb up one floor."
 GameText.TargetText.Esperanto   [ "RopeDescription" ]   = "Supreniri unu nivelon."
@@ -1208,6 +1248,7 @@ GameText.TargetText.German      [ "RopeDescription" ]   = "Gehe eine Ebene hinau
 GameText.TargetText.French      [ "RopeDescription" ]   = "Fait monter d'un étage."
 GameText.TargetText.Polish      [ "RopeDescription" ]   = "Pozwala wejść jeden poziom wyżej."
 GameText.TargetText.Japanese    [ "RopeDescription" ]   = "うえ　の　かい　に　あがる。"
+GameText.TargetText.Norwegian   [ "RopeDescription" ]   = "Klatre opp en nivå."
 
 
 GameText.TargetText.English     [ "Blizzard" ]  = "Blizzard"
@@ -1219,6 +1260,7 @@ GameText.TargetText.German      [ "Blizzard" ]  = "Blizzard"
 GameText.TargetText.French      [ "Blizzard" ]  = "Blizzard"
 GameText.TargetText.Polish      [ "Blizzard" ]  = "Zamieć"
 GameText.TargetText.Japanese    [ "Blizzaed" ]  = "ブリザード"
+GameText.TargetText.Norwegian   [ "Blizzard" ]  = "Snøstorm"
 
 GameText.TargetText.English     [ "BlizzardDescription" ]   = "Freeze all the enemies."
 GameText.TargetText.Esperanto   [ "BlizzardDescription" ]   = "Frostigi ĉiujn malamikojn."
@@ -1229,6 +1271,7 @@ GameText.TargetText.German      [ "BlizzardDescription" ]   = "Friere alle Gegne
 GameText.TargetText.French      [ "BlizzardDescription" ]   = "Gèle tous les ennemis."
 GameText.TargetText.Polish      [ "BlizzardDescription" ]   = "Zamraża wszystkich wrogów."
 GameText.TargetText.Japanese    [ "BlizzsrdDescription" ]   = "すべて　の　てき　を　フリーズ。"
+GameText.TargetText.Norwegian   [ "BlizzsrdDescription" ]   = "Fryser alle fiender til is."
 
 GameText.TargetText.English     [ "Price" ]     = "Price:"
 GameText.TargetText.Esperanto   [ "Price" ]     = "Prezo:"
@@ -1239,5 +1282,6 @@ GameText.TargetText.German      [ "Price" ]     = "Preis:"
 GameText.TargetText.French      [ "Price" ]     = "Prix:"
 GameText.TargetText.Polish      [ "Price" ]     = "Cena:"
 GameText.TargetText.Japanese    [ "Price" ]     = "ねだん"
+GameText.TargetText.Norwegian   [ "Price" ]     = "Pris:"
 
 end
